@@ -23,3 +23,6 @@ git push origin <branch>
 
 git clone <url>
 // untuk download project git
+
+git pull origin <branch>
+// update file
